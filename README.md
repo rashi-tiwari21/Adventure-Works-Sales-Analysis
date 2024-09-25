@@ -4,6 +4,7 @@ This repository contains an MS Excel-based dashboard designed for analyzing sale
 # Dashboard Preview:
 ![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Adventure%20Works%20Dashboard%20page%201.png)
 
+
 ![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Adventure%20Works%20Dashboard%20page%202.png)
 
 
